@@ -1,4 +1,4 @@
-# Computer Networks - Programming Assignment 1
+# Computer Networks - Loss Tolerant File Transfer Application
 Matthew Modi (mem2382)
 
 ## Compilation
